@@ -40,7 +40,7 @@ Javascript
 
 ## Instructions For Use
 ```
-This application can be used by navigating to [https://searching-for-books-svnday.herokuapp.com/](https://searching-for-books-svnday.herokuapp.com/)
+This application can be used by navigating to [https://svnday.github.io/coding_quiz_challenge/](https://svnday.github.io/coding_quiz_challenge/)
 
 If running on your local machine, clone the repository.  
 While in the root directory, use the "Open in default browser" option when clicking on index.html.
@@ -50,5 +50,7 @@ ________________________________________________________________________________
 
 
 Link to repository: [https://github.com/svnday/searching-for-books](https://github.com/svnday/searching-for-books)  
-Link to deployed application: [https://searching-for-books-svnday.herokuapp.com/](https://searching-for-books-svnday.herokuapp.com/)  
-Link to screenshot: ![https://i.imgur.com/ylRrXmk.png](https://i.imgur.com/ylRrXmk.png)  
+Link to deployed application: [https://svnday.github.io/coding_quiz_challenge/](https://svnday.github.io/coding_quiz_challenge/)  
+Screenshots:  
+![https://i.imgur.com/LiL5LLB.png](https://i.imgur.com/LiL5LLB.png)  
+![https://i.imgur.com/8SfksFF.png](https://i.imgur.com/8SfksFF.png)  
